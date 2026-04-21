@@ -4,9 +4,9 @@ This project performs basic data analysis using Python and Pandas.
 
 ## Features
 - Load CSV dataset
-- Display data
-- Calculate average marks
-- Find highest and lowest values
+- Display dataset in structured format
+- Calculate average, highest, and lowest marks
+- Simple data visualization ready structure
 
 ## Tools Used
 - Python
