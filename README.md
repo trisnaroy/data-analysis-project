@@ -6,14 +6,14 @@ This project performs basic data analysis using Python and Pandas.
 - Load CSV dataset
 - Display dataset in structured format
 - Calculate average, highest, and lowest marks
-- Simple data visualization ready structure
+- Basic data analysis operations
 
 ## Tools Used
 - Python
 - Pandas
 
 ## Output
-Shows statistical summary of student marks dataset.
+Provides a statistical summary of the dataset, such as student marks analysis.
 
 ## Author
 Trisna Roy
