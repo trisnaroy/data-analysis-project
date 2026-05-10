@@ -16,4 +16,4 @@ This project performs basic data analysis using Python and Pandas.
 Provides a statistical summary of the dataset, such as student marks analysis.
 
 ## Author
-Trisna Roy
+Trisna Rani Roy
